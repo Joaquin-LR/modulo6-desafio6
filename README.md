@@ -8,7 +8,7 @@
   <li><p>Abrir la carpeta <code>modulo6-desafio6-main</code> en Visual Studio Code.</p></li>
   <li><p>Abrir una terminal (preferiblemente bash).</p></li>
   <li><p>Escribir <code>cd backend</code>, luego <code>npm i</code> y ejecutar para instalar las dependencias.</p></li>
-  <li><p>En el archivo <code>.env</code> reemplazar línea 3 de ser necesario</p></li>
+  <li><p>En el archivo <code>.env</code> reemplazar línea 3 (contraseña de PostgreSQL)</p></li>
   <li><p>Escribir en la terminal <code>nodemon index.js</code> y ejecutar. Esto hará correr el servidor.</p></li>
 </ol>
 
